@@ -1,0 +1,31 @@
+[33mcommit 74060196b9f386be5838cdfb064cb9303760c1d4[m[33m ([m[1;36mHEAD[m[33m)[m
+Author: ckinfa <chan.kinfa@dyson.com>
+Date:   Wed May 24 20:28:04 2023 +0800
+
+    Revert "2 sub, change title"
+    
+    This reverts commit 57eb661a97641307624ccbc0206004747a1c5ded.
+
+[33mcommit 721b712248f6d5af8838a03a4f46409a94dcc9d9[m
+Author: ckinfa <chan.kinfa@dyson.com>
+Date:   Wed May 24 20:14:40 2023 +0800
+
+    add login.js
+
+[33mcommit b15e2e3e95d785448a69f9c774a55f0074c10cf8[m[33m ([m[1;32mmaster[m[33m)[m
+Author: ckinfa <chan.kinfa@dyson.com>
+Date:   Wed May 24 19:21:01 2023 +0800
+
+    3rd commit
+
+[33mcommit 57eb661a97641307624ccbc0206004747a1c5ded[m
+Author: ckinfa <chan.kinfa@dyson.com>
+Date:   Wed May 24 19:18:15 2023 +0800
+
+    2 sub, change title
+
+[33mcommit 949a4a6408bbe8546bfeee309d0fcbeb82fbb795[m
+Author: ckinfa <chan.kinfa@dyson.com>
+Date:   Wed May 24 17:59:26 2023 +0800
+
+    add index.html
